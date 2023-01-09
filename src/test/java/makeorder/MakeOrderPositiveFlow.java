@@ -45,8 +45,8 @@ public class MakeOrderPositiveFlow {
     @Parameterized.Parameters
     public static Object [][] getCredentials(){
         return new Object[][] {
-                {orderButtonTop, "Юлия", "Евтеева", "Нигде", "8900000000", "10.12.2022", "Погнали" },
-                {orderButtonMiddle, "Никта", "Евтеев", "Сокол", "8900000001", "10.03.2023", ""}
+                {orderButtonTop, "Дарья", "Волкова", "Нигде", "89018007680", "01.12.2022", "Старт" },
+                {orderButtonMiddle, "Александр", "Волков", "000", "89018007680", "01.03.2023", ""}
         };
     }
     @Before
