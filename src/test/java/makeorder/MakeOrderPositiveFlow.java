@@ -46,7 +46,7 @@ public class MakeOrderPositiveFlow {
     public static Object [][] getCredentials(){
         return new Object[][] {
                 {orderButtonTop, "Дарья", "Волкова", "Нигде", "89018007680", "01.12.2022", "Старт" },
-                {orderButtonMiddle, "Александр", "Волков", "адрес", "89018007680", "01.03.2023", ""}
+                {orderButtonMiddle, "Александр", "Волков", "адрес111", "89018007680", "01.03.2023", ""}
         };
     }
     @Before
